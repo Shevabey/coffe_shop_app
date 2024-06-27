@@ -1,16 +1,28 @@
-# coffee_shop_app
+# Coffee Shop App
 
-A new Flutter project.
+## Mockup
 
-## Getting Started
+here is the addition of the mockup
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone repositorie
+```bash
+git clone https://github.com/Shevabey/coffe_shop_app.git
+
+```
+2. Go to the project folder
+```bash
+cd coffe_shop_app
+
+```
+3. install dependencies
+```bash
+dart pub get
+```
+
+## Tech Stack
+
+**Client:** Dart, Flutter
